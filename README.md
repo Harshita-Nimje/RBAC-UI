@@ -19,7 +19,7 @@ RBAC-UI (Role-Based Access Control User Interface) is a user-friendly dashboard 
 
 ## Demo
 
-- You can access the live demo of Crypto Dashboard
+- You can access the live demo of Dashboard
    ```bash
    https://ui-rbac-dashboard.netlify.app/
 
