@@ -32,7 +32,7 @@ RBAC-UI (Role-Based Access Control User Interface) is a user-friendly dashboard 
 - Run the application.
    ```bash
    npm run start
-- Open your browser and navigate to the hosted game URL.
+- Open your browser and navigate to the hosted URL.
 
 ## Technologies Used
   - Chart.js 
